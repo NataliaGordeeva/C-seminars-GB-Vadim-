@@ -87,4 +87,5 @@
 
 string a = "урок";
 string b = "один";
-Console.WriteLine(a +" "+ b);
+//Console.WriteLine(a +" "+ b);
+Console.WriteLine($"число {a} является квадратом {b}");
