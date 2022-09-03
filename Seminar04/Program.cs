@@ -105,7 +105,7 @@ void PrintArray(int[] col)
     int position = 0;
     while (position<count)
     {
-        Console.Write(col[position]);
+        Console.Write(col[position]+ " ");
         position++;
     }
 
